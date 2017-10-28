@@ -10,4 +10,5 @@ public class Die {
 		
 		return random.nextInt(6) + 1;
 	}
+
 }
